@@ -1,6 +1,7 @@
 # Api Computer Vision AZURE
 
-En este archivo encontraremos una api que usa Computer Vision de Azure para predecir imagenes
+En este archivo encontraremos una api que usa Computer Vision de Azure para predecir imagenes.
+Asegurate de tener un archivo .env con las credenciales de azure.
 
 ## Instalación y uso
 
