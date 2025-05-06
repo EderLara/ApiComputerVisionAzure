@@ -25,4 +25,17 @@ Asegurate de tener un archivo .env con las credenciales de azure.
         image_path = ".\ps.webp"
     ```
 * Se conectará a azure con las credenciales: clave 1 y el externo
-* Consulta los resultados en la terminal
+* Consulta los resultados en la terminal:
+
+```
+    Objetos detectados:
+
+    Etiquetas generales:
+    - panel solar: 99.94%
+    - energía solar: 97.74%
+    - exterior: 91.89%
+    - tenis: 90.89%
+    - raqueta: 61.83%
+    - solar: 53.46%
+
+```
